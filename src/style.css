@@ -206,7 +206,10 @@ h2:hover {
   background-color: #000000;
   color: white;
   transform: rotateY(180deg);
-
+  text-align: center;
+  font-size: .8rem;
+  font-weight: bold;
+  font-family: sans-serif;
 }
 
 
